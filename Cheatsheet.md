@@ -23,8 +23,8 @@
 |---|---|---|
 |Прямая ссылка|`<https://google.com>`|<https://google.com>
 |Ссылка с названием|`[Ссылка](https://google.com)`|[Ссылка](https://google.com)|
-|Картинка|`![Markdown image](Cсылка на картинку)`| ![Картинка](E:\пикчи\markdown.png)
-|Кликабельная картинка с названием|`[![Markdown clickable image](Ссылка на картинку "Сообшение, вылезающее при наведении")](https://google.com)`|[![Markdown clickable image](E:\пикчи\markdown.png "Click me!")](https://google.com)
+|Картинка|`![Markdown image](Cсылка на картинку)`| ![Картинка](markdown.png)
+|Кликабельная картинка с названием|`[![Markdown clickable image](Ссылка на картинку "Сообшение, вылезающее при наведении")](https://google.com)`|[![Markdown clickable image](markdown.png "Click me!")](https://google.com)
 
 ---
 
